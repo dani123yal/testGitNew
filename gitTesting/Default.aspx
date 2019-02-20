@@ -19,6 +19,22 @@
             </p>
         </div>
     </div>
+    <br />
+    <hr / >
+    <hr />
+    <hr />
+    <br />
+    <h1 style="color:red; text-align:center; font-style:oblique; font-size:70px">Aashir's Beautiful Huawei Honor 8x</h1>
+        <img src="https://cdnmedia.hihonor.com/me/media/wysiwyg/Overview/8x/768/5-min.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%;"/>
+        <br />
+        <br />
+        <h1 style="text-align:center;"> 6.2 inch High Definition Screen</h1>
+        <img src="https://static.toiimg.com/thumb/msid-66234929,width-640,resizemode-4/66234929.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%%;" />
+        <br />
+        <br />
+        <h1 style="text-align:center;"> Variety Of Colors</h1>
+        <img src="https://dzvfs5sz5rprz.cloudfront.net/media/wysiwyg/Description_Images/ASZ/honor-8x-1.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%%; "/>
+
 
 
 <div class="jumbotron">
@@ -26,10 +42,13 @@
     
     <h2 class="suptitle">Faster, Smoother and Greater Storage</h2>
     <h3 class="title">4GB RAM + 64GB ROM</h3>
-       <img src="F9Web.jpg" alt="f9 oppo's phone" height="44" width="42">
+  <center>    <img src="https://assorted.downloads.oppo.com/static/assets/images/products/f7/sec5-973dc5f0d1347ded5a9ab6f9162a2d8ffca3742c.jpg"style="display:grid;margin-left:auto;width: 100%%; "/></center>  
+    <br />
         <p>OPPO F7’s performance is 80% higher than its predecessor. With a formidable 4GB RAM and 64GB 
 ROM taking center stage, the F7 not only runs fast and smooth, but does so with significantly less 
 power and a greater storage capacity so you can store a whole lot more on your device</p>
    
          </div>
     </asp:Content> 
+
+
