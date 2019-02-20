@@ -38,15 +38,15 @@
 
 
 <div class="jumbotron">
-        <h1>OPPO F9 - AI Powered Selfie Phone - OPPO Pakistan</h1>
+        <h1>OPPO F9 - AI Powered Selfie Smart - Irzam's Phone</h1>
     
     <h2 class="suptitle">Faster, Smoother and Greater Storage</h2>
     <h3 class="title">4GB RAM + 64GB ROM</h3>
-  <center>    <img src="https://assorted.downloads.oppo.com/static/assets/images/products/f7/sec5-973dc5f0d1347ded5a9ab6f9162a2d8ffca3742c.jpg"style="display:grid;margin-left:auto;width: 100%%; "/></center>  
+    <img src="https://assorted.downloads.oppo.com/static/assets/images/products/f7/sec5-973dc5f0d1347ded5a9ab6f9162a2d8ffca3742c.jpg"style="display:grid;margin-left:unset;width: 100%%; "/>
     <br />
         <p>OPPO F7’s performance is 80% higher than its predecessor. With a formidable 4GB RAM and 64GB 
 ROM taking center stage, the F7 not only runs fast and smooth, but does so with significantly less 
-power and a greater storage capacity so you can store a whole lot more on your device</p>
+power and a greater storage capacity so you can store a whole lot more on your device.</p>
    
          </div>
     </asp:Content> 
