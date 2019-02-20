@@ -18,5 +18,21 @@
             </p>
         </div>
     </div>
+    <br />
+    <hr / >
+    <hr />
+    <hr />
+    <br />
+    <h1 style="color:red; text-align:center; font-style:oblique; font-size:70px">Aashir's Beautiful Huawei Honor 8x</h1>
+        <img src="https://cdnmedia.hihonor.com/me/media/wysiwyg/Overview/8x/768/5-min.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%;"/>
+        <br />
+        <br />
+        <h1 style="text-align:center;"> 6.2 inch High Definition Screen</h1>
+        <img src="https://static.toiimg.com/thumb/msid-66234929,width-640,resizemode-4/66234929.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%%;" />
+        <br />
+        <br />
+        <h1 style="text-align:center;"> Variety Of Colors</h1>
+        <img src="https://dzvfs5sz5rprz.cloudfront.net/media/wysiwyg/Description_Images/ASZ/honor-8x-1.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%%; "/>
 
 </asp:Content>
+
