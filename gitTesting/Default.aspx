@@ -33,6 +33,6 @@
         <br />
         <h1 style="text-align:center;"> Variety Of Colors</h1>
         <img src="https://dzvfs5sz5rprz.cloudfront.net/media/wysiwyg/Description_Images/ASZ/honor-8x-1.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%%; "/>
-
+        
 </asp:Content>
 
