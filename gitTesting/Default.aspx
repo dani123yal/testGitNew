@@ -49,6 +49,50 @@ ROM taking center stage, the F7 not only runs fast and smooth, but does so with 
 power and a greater storage capacity so you can store a whole lot more on your device.</p>
    
          </div>
+    <br />
+    <h1>
+           AISHAH'S MESMERIZING SAMSUNG GALAXY S8+
+    </h1>
+
+    <h2>
+        Introducing the stunning Infinity Display
+    </h2>
+    <p>
+        The revolutionary design of the Galaxy S8 and S8+ begins from the inside out. 
+        We rethought every part of the phone's layout to break through the confines of the smartphone 
+        screen. So all you see is pure content and virtually no bezel. It's the biggest, most 
+        immersive screen on a Galaxy smartphone of this size. And it's easy to hold in one hand.
+    </p>
+    <img src=" https://target.scene7.com/is/image/Target/GUEST_19d75902-6ebd-4d92-9c3e-4a704f0565b2?wid=488&hei=488&fmt=pjpeg" />
+    <h2>
+        Camera
+    </h2>
+    <h3>
+        A camera built for every moment
+    </h3>
+    <p>
+        
+        Capture life as it happens with the Galaxy S8 and S8+ cameras. The 12MP rear camera and the 8MP front camera are 
+        so accurate and fast that you won't miss a moment, day or night.
+    </p>
+    <img src="https://ksassets.timeincuk.net/wp/uploads/sites/54/2017/03/galaxys8-6-3.jpg"; />
+    <h2>
+        Security
+    </h2>
+    <h3>
+        Security that's foolproof
+    </h3>
+    <p>
+        Prying eyes are not a problem when you have iris scanning on the Galaxy S8 and S8+. 
+        Your irises have patterns that are unique to you, and they're nearly impossible to replicate.
+        That means with iris scanning, your phone and its contents open to your eyes only. 
+        And when you need to unlock really fast, face recognition is a handy option.
+    </p>
+    <img src="https://ksassets.timeincuk.net/wp/uploads/sites/54/2018/05/Galaxy-S8-Lite.png"; />
+
+      
+
+
     </asp:Content> 
 
 
